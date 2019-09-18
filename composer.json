@@ -48,11 +48,6 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
-        "compile": [
-            "chmod -R 777 public/",
-            "chmod 755 etc/",
-            "chmod 644 etc/config.php"
-        ],
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
             "@php artisan package:discover --ansi"
