@@ -13,9 +13,7 @@
             <div class="box_div">
                 <div class="figure__first">
 
-                        <img src="{{Storage::disk('public')->url($postFirst->image)}}" alt="">
-                    {{--<img class="post__img" src="/public/img/{{$post->image}}" alt="">--}}
-                    {{--<img class="post__img" src="/public/img/bas.jpg" alt="">--}}
+                        <img src="{{Storage::disk('local')->url($postFirst->image)}}" alt="">
 
                     <p  class="firstEvent__title">{{ $postFirst->title }}</p>
 
