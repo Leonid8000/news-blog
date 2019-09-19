@@ -14,6 +14,8 @@
                 <div class="figure__first">
 
                         <img src="{{Storage::disk('local')->url($postFirst->image)}}" alt="">
+                    {{--<img class="post__img" src="/public/img/{{$post->image}}" alt="">--}}
+                    {{--<img class="post__img" src="/public/img/bas.jpg" alt="">--}}
 
                     <p  class="firstEvent__title">{{ $postFirst->title }}</p>
 
