@@ -72,11 +72,18 @@ class PostController extends Controller
         ]);
 
         if($request->hasFile('image')){
-//            $imageName = $request->image->store('public');
-            $imageName = $request->file('image')->store('img', 'public');
+            $imageName = $request->image->store('public');
+//            $imageName = $request->file('image')->store('img', 'public');
+
 //            $newName = rand().'.'.$imageName->getClientOriginalExtension();
+//            $imageName->move($dirImg, $imageName);
+
+//            $oldImgName = $request->file('image');
+
+//            $imageName = rand().'.'.$oldImgName->getClientOriginalExtension();
 //            $dirImg = public_path('/img');
 //            $imageName->move($dirImg, $imageName);
+//            $this->save();
         }
 
         $post = new Post;
