@@ -29,7 +29,8 @@
                     <a href="{{route('post', $post->slug)}}">
                 <div class="box_div">
                     <div class="figures">
-                        <img src="{{Storage::disk('local')->url($post->image)}}" alt="">
+
+                        <img src="{{asset('user/img/logo.png')}}" alt="">
                         <div class="event__title">
                             <p>{{ $post->title }}</p>
                         </div>
@@ -66,7 +67,7 @@
                         <hr class="post__hr">
                 <div class="col-lg-3 col-md-4 col-4 block__img">
 
-                    <img class="img-blog" src="{{Storage::disk('local')->url($post->image)}}">
+                    <img class="img-blog" src="{{asset('user/img/logo.png')}}">
                 </div>
 
                 <div class=" col-lg-6 col-md-8 col-8 post_title_subtitle">
@@ -102,3 +103,6 @@
 <div class="banner"></div>
 
     @endsection
+{{--<img class="img-blog" src="{{Storage::disk('local')->url($post->image)}}">--}}
+
+{{--<img src="{{Storage::disk('local')->url($post->image)}}" alt="">--}}
