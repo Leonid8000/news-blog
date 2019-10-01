@@ -25,7 +25,7 @@
                         <hr class="post__hr">
                         <div class=" block__img">
 
-                            <img class="img-blog" src="{{Storage::disk('local')->url($post->image)}}">
+                            <img class="img-blog" src="{{asset('user/img/logo.png')}}">
                         </div>
 
                         <div class=" ">
@@ -59,3 +59,5 @@
     </section>
 
 @endsection
+
+{{--<img class="img-blog" src="{{Storage::disk('local')->url($post->image)}}">--}}

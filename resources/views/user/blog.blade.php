@@ -13,7 +13,7 @@
             <div class="box_div">
                 <div class="figure__first">
 
-                        <img src="{{Storage::disk('local')->url($postFirst->image)}}" alt="">
+                        <img src="{{asset('user/img/ufc100.png')}}" alt="">
 
                     <p  class="firstEvent__title">{{ $postFirst->title }}</p>
 
@@ -103,6 +103,8 @@
 <div class="banner"></div>
 
     @endsection
+
+{{--<img src="{{Storage::disk('local')->url($postFirst->image)}}" alt="">--}}
 {{--<img class="img-blog" src="{{Storage::disk('local')->url($post->image)}}">--}}
 
 {{--<img src="{{Storage::disk('local')->url($post->image)}}" alt="">--}}
