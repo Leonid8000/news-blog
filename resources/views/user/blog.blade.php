@@ -13,7 +13,7 @@
             <div class="box_div">
                 <div class="figure__first">
 
-                        <img src="{{asset('user/img/ufc100.png')}}" alt="">
+                        <img src="{{asset('user/img/image.jpeg')}}" alt="">
 
                     <p  class="firstEvent__title">{{ $postFirst->title }}</p>
 
@@ -30,7 +30,7 @@
                 <div class="box_div">
                     <div class="figures">
 
-                        <img src="{{asset('user/img/logo.png')}}" alt="">
+                        <img src="{{asset('user/img/image.jpeg')}}" alt="">
                         <div class="event__title">
                             <p>{{ $post->title }}</p>
                         </div>
@@ -67,7 +67,7 @@
                         <hr class="post__hr">
                 <div class="col-lg-3 col-md-4 col-4 block__img">
 
-                    <img class="img-blog" src="{{asset('user/img/logo.png')}}">
+                    <img class="img-blog" src="{{asset('user/img/image.jpeg')}}">
                 </div>
 
                 <div class=" col-lg-6 col-md-8 col-8 post_title_subtitle">

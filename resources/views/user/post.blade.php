@@ -15,7 +15,7 @@
 
                         <p class="created__at">By <a href="#">Leonid Brosnan</a> | Created at {{ $post->created_at->diffForHumans() }}</p>
 
-                        <img class="post__img" src="{{asset('user/img/logo.png')}}">
+                        <img class="post__img" src="{{asset('user/img/image.jpeg')}}">
 
                         <span class="post__body">
                        {!! htmlspecialchars_decode($post->body) !!}
@@ -57,7 +57,7 @@
                         <hr class="post__hr">
                         <div class="col-lg-3 col-md-4 col-4 block__img">
 
-                            <img class="img-blog" src="{{asset('user/img/logo.png')}}">
+                            <img class="img-blog" src="{{asset('user/img/image.jpeg')}}">
                         </div>
 
                         <div class=" col-lg-6 col-md-8 col-8 post_title_subtitle">

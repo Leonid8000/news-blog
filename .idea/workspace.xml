@@ -26,31 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="footer.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/user/layouts/footer.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="69" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blog.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/user/blog.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="64" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/user/app.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="1242">
+              <caret line="69" column="75" selection-start-line="69" selection-start-column="75" selection-end-line="69" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -59,8 +39,8 @@
       <file leaf-file-name="category_tag.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/user/category_tag.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="85" />
+            <state relative-caret-position="486">
+              <caret line="27" column="83" selection-start-line="27" selection-start-column="83" selection-end-line="27" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -69,8 +49,8 @@
       <file leaf-file-name="post.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/user/post.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="1062">
+              <caret line="59" column="83" selection-start-line="59" selection-start-column="83" selection-end-line="59" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -92,9 +72,9 @@
         <option value="$PROJECT_DIR$/public/user/css/main.css" />
         <option value="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" />
         <option value="$PROJECT_DIR$/resources/views/user/layouts/footer.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/user/post.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/user/blog.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/user/category_tag.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/user/post.blade.php" />
       </list>
     </option>
   </component>
@@ -275,12 +255,12 @@
       <workItem from="1569061110157" duration="530000" />
       <workItem from="1569844868860" duration="672000" />
       <workItem from="1569865717992" duration="4052000" />
-      <workItem from="1569952863249" duration="1455000" />
+      <workItem from="1569952863249" duration="1909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48110000" />
+    <option name="totallyTimeSpent" value="48564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -322,185 +302,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/storage/DKpJsEEDE344aEfFmt8E2EenNcvllwY58pSruuzq.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/e6w6fIexhjPUWURHlPxkQQWP8t7SD7hxJyjBNkT4.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/e7eNIjcxXnS2QBFqcZbbaD8TwikbTBtn5SNvFu9f.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/f1Y7eJMQZPnORfoapjHJGV9HduIkuNbNMSmwFFp7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/G7Lqw0kp4LgpXz6y4gRr9KOqwXQhnIIEeEIKOdm2.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/gNO0X0xfIxtbp6lBwLT8RWZSgR3jTYLPMcpJ1TeA.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/ijBFLesTcG5BNXRov2pm59cwL96Q4lokYEZBNC16.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/jjaXw8oiSoc9YNuzpUBLEukNTREj9eE8mH0cVHCe.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/krB46I7iLMNqloQzeoz7pMYmcLzVyNkuE5KnuYVa.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/l9IfDUVWGgfM7g89e2nBfFuaqmGjCz9hiu7YHpq4.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/lbZ2LZDXdUMIRx9jE6GNQHgFpEEke6ohEhNy0JvN.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/meGMhws4DdqeCETXzEAs44JdsBEt3ubn2MdsUzko.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/oZEBXew0L0PsZEp7uySV7pL3v579jF4KAiXI3f7O.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/ZDThPBXXVul9Xg3HpvH9g2pWDDwOsMkSSAJap4Er.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/XMnpYWFmt3LB9Li8kHdZLZzGIOSRKxxF9cpvT1lm.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/wJwk6sRucDq2PZOShL9C3x7QMhXGC6rKsX7ym96C.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/tzU6HFTZiXIcHrnodsiBdEy0KlAoETMXTxl5uyUf.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/rv5OBUMU7eliPfRncwp36S7wXQdnS4FN4ekF39V2.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/RM6JZfD1w2jJbeGW8oit9vchRW9b05MflpwtouY7.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/ren9rtHg2WEdVPsRMeOrBW07fNNAOvAr6QpDmuT7.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/QkdjVuYFam2dupuvnHxgpTjau5scce12UexSlOCQ.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/PO2ZPW4KZPiBS26a1mPikZ9EW0DFvu3Jp8hqlT6m.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/storage/ZLwwxyBeHkbkVSXE3ZDQalDnivmViab9ghLaBeBh.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/app/public/7lwkwekM0POSUKO6R50te1zPA7JsXjbzC22PIAvS.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/app/public/1qlO7yEU48TAshQ72cmkHlUhZMjKyLPqoArrhHc5.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/app/public/1LxnXjNhnxeE4z8KieOXvdCIySnf1Er7fWPwRobV.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-298">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/filesystems.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/user/applogin.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/user/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="398" column="0" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_04_16_165219_create_posts_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/post/post.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="72" column="49" selection-start-line="72" selection-start-column="45" selection-end-line="74" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/post/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1188">
@@ -561,6 +362,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/user/layouts/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="69" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/user/img/conor3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/user/img/conor2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/user/img/contact-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/user/img/home-bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -571,20 +395,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/user/img/post-sample-image.jpg">
+    <entry file="file://$PROJECT_DIR$/public/user/img/post-bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/user/layouts/footer.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="69" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/user/img/ufc101.jpg">
+    <entry file="file://$PROJECT_DIR$/public/user/img/post-sample-image.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -594,34 +410,184 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/user/post.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/public/user/img/ufc101.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/user/category_tag.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="85" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/public/storage/7lwkwekM0POSUKO6R50te1zPA7JsXjbzC22PIAvS.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/user/blog.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="64" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="64" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/public/storage/Bf7XLadAeU3aDJFw0cymkiXaDeMwqQArKdoMyBqa.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/cjevuQt7dbknG7FqHftEciu0eO8TPUtING6yYX9u.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/e6w6fIexhjPUWURHlPxkQQWP8t7SD7hxJyjBNkT4.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/fGfZjLmZPXCCiJdTQw2KBP7ViBMSVrhV4kUtBexj.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/HusMoVtrC1J5WV8m7ZXgATOyFkcFn8zTIrgwGw8U.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/jWgRv0yvloyhiW2DzoJilLwkJCsmXNWX4ZPiNtNA.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/l9IfDUVWGgfM7g89e2nBfFuaqmGjCz9hiu7YHpq4.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/lbZ2LZDXdUMIRx9jE6GNQHgFpEEke6ohEhNy0JvN.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/ONcE5IfgqQaCT3vhTrlhx9ExSSPo3n652xqajuSn.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/oZEBXew0L0PsZEp7uySV7pL3v579jF4KAiXI3f7O.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/PO2ZPW4KZPiBS26a1mPikZ9EW0DFvu3Jp8hqlT6m.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/QkdjVuYFam2dupuvnHxgpTjau5scce12UexSlOCQ.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/rD4TFwcltWgkZYlUOJ1WUJXb4CrgAOMIgs0lhtrX.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/ren9rtHg2WEdVPsRMeOrBW07fNNAOvAr6QpDmuT7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/RM6JZfD1w2jJbeGW8oit9vchRW9b05MflpwtouY7.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/rv5OBUMU7eliPfRncwp36S7wXQdnS4FN4ekF39V2.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/Rw0koc7lAtCQ9NzRXt8rFxUSNfj492NX8ySEMjoY.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/sDLDJBEJ4dPIhG5HRR2IrczBJkT0VgYJ7nfHEF6U.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/sKOV2ij0W5blYHjnYGbzyrKq8olBunLERTKv5VeP.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/te2PursrmPdIYaFHCJOA06UAnBxh7DnIWDRijxeb.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/yKaroHlAXz6EHWeihF4v1pVFWjqzt98u2OknnsLT.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/ZDThPBXXVul9Xg3HpvH9g2pWDDwOsMkSSAJap4Er.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/XMnpYWFmt3LB9Li8kHdZLZzGIOSRKxxF9cpvT1lm.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/XGtiVuJ2yvbA2LW3OS1Phjdi55FO4d1YFAvNjng0.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/wJwk6sRucDq2PZOShL9C3x7QMhXGC6rKsX7ym96C.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/tzU6HFTZiXIcHrnodsiBdEy0KlAoETMXTxl5uyUf.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/wDFFy2nq04yq1nvOWS49W1fnMa2brnx7ic7S8l5I.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/storage/ZLwwxyBeHkbkVSXE3ZDQalDnivmViab9ghLaBeBh.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/user/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/user/category_tag.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="83" selection-start-line="27" selection-start-column="83" selection-end-line="27" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/user/post.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="59" column="83" selection-start-line="59" selection-start-column="83" selection-end-line="59" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/user/blog.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="69" column="75" selection-start-line="69" selection-start-column="75" selection-end-line="69" selection-end-column="75" />
           <folding />
         </state>
       </provider>

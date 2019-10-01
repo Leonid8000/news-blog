@@ -25,7 +25,7 @@
                         <hr class="post__hr">
                         <div class=" block__img">
 
-                            <img class="img-blog" src="{{asset('user/img/logo.png')}}">
+                            <img class="img-blog" src="{{asset('user/img/image.jpeg')}}">
                         </div>
 
                         <div class=" ">
