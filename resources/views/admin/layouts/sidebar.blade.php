@@ -39,13 +39,13 @@
                     <li class=""><a href="{{ route('user.index') }}"><i class="fa fa-circle-o"></i> Users</a></li>
                     @endcan
 
-                    @can('role', Auth::user())
+                    {{--@can('role', Auth::user())--}}
                     <li class=""><a href="{{ route('role.index') }}"><i class="fa fa-circle-o"></i> Roles</a></li>
-                    @endcan
+                    {{--@endcan--}}
 
-                    @can('permission', Auth::user())
+                    {{--@can('permission', Auth::user())--}}
                     <li class=""><a href="{{ route('permission.index') }}"><i class="fa fa-circle-o"></i> Permissions</a></li>
-                    @endcan
+                    {{--@endcan--}}
 
                 </ul>
             </li>
