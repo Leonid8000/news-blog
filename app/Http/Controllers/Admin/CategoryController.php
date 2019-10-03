@@ -6,6 +6,8 @@ use App\Model\user\Category;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 
+//$this->middleware('can:posts.category');
+
 
 class CategoryController extends Controller
 {
@@ -13,7 +15,6 @@ class CategoryController extends Controller
     public function __construct()
     {
         $this->middleware('auth:admin');
-        $this->middleware('can:posts.category');
         
     }
     
