@@ -7,13 +7,13 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\Model\admin\Role;
 
+//$this->middleware('can:permission');
 
 class PermissionController extends Controller
 {
     public function __construct()
     {
         $this->middleware('auth:admin');
-        $this->middleware('can:permission');
     }
 
     /**

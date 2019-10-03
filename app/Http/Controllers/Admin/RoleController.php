@@ -8,14 +8,14 @@ use App\Model\admin\Role;
 use App\Model\admin\Permission;
 use Illuminate\Support\Facades\View;
 
+//$this->middleware('can:role');
+
 class RoleController extends Controller
 {
 
     public function __construct()
     {
         $this->middleware('auth:admin');
-        $this->middleware('can:role');
-        
     }
     
     /**

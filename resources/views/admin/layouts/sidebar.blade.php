@@ -27,9 +27,9 @@
                 <ul class="treeview-menu">
                     <li class=""><a href="{{ route('post.index') }}"><i class="fa fa-circle-o"></i> Posts</a></li>
 
-                    @can('posts.category', Auth::user())
+                    {{--@can('posts.category', Auth::user())--}}
                     <li class=""><a href="{{ route('category.index') }}"><i class="fa fa-circle-o"></i> Categories</a></li>
-                    @endcan
+                    {{--@endcan--}}
 
                     {{--@can('posts.tag', Auth::user())--}}
                     <li class=""><a href="{{ route('tag.index') }}"><i class="fa fa-circle-o"></i> Tags</a></li>
@@ -39,9 +39,9 @@
                     <li class=""><a href="{{ route('user.index') }}"><i class="fa fa-circle-o"></i> Users</a></li>
                     @endcan
 
-                    {{--@can('role', Auth::user())--}}
+                    @can('role', Auth::user())
                     <li class=""><a href="{{ route('role.index') }}"><i class="fa fa-circle-o"></i> Roles</a></li>
-                    {{--@endcan--}}
+                    @endcan
 
                     {{--@can('permission', Auth::user())--}}
                     <li class=""><a href="{{ route('permission.index') }}"><i class="fa fa-circle-o"></i> Permissions</a></li>
