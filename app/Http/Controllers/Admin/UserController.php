@@ -8,11 +8,13 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 
 class UserController extends Controller
+
+//$this->middleware('can:posts.user');
 {
     public function __construct()
     {
         $this->middleware('auth:admin');
-        $this->middleware('can:posts.user');
+
 
     }
 
