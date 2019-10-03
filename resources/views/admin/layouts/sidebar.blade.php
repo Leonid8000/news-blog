@@ -31,9 +31,9 @@
                     <li class=""><a href="{{ route('category.index') }}"><i class="fa fa-circle-o"></i> Categories</a></li>
                     @endcan
 
-                    @can('posts.tag', Auth::user())
+                    {{--@can('posts.tag', Auth::user())--}}
                     <li class=""><a href="{{ route('tag.index') }}"><i class="fa fa-circle-o"></i> Tags</a></li>
-                    @endcan
+                    {{--@endcan--}}
 
                     @can('posts.user', Auth::user())
                     <li class=""><a href="{{ route('user.index') }}"><i class="fa fa-circle-o"></i> Users</a></li>
