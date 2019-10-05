@@ -562,7 +562,9 @@ footer p{
     .post-meta{
         margin:10px 10px;
     }
+}
 
+@media screen and (max-width:370px){
     .logo{
         width:100px;
         height:auto;

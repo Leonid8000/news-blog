@@ -15,7 +15,7 @@
 
                         <img src="{{asset('user/img/image.jpeg')}}" alt="">
 
-                    <p  class="firstEvent__title">{{ $postFirst->title }}</p>
+                    <p  class="firstEvent__title mb-1">{{ $postFirst->title }}</p>
 
                 </div>
             </div>
