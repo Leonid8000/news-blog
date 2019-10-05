@@ -529,10 +529,6 @@ footer p{
         width:170px;
     }
 
-    .firstEvent__title{
-        padding-bottom: 10px;
-    }
-
 }
 
 @media screen and (max-height:414px){
@@ -572,5 +568,8 @@ footer p{
 
     .post-meta{
         margin:10px 10px;
+    }
+    .firstEvent__title{
+        padding-bottom: 10px;
     }
 }
