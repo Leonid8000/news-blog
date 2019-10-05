@@ -418,6 +418,13 @@ footer p{
     .post_title_subtitle{
         display: none;
     }
+    .logo{
+        width:100px;
+        height:auto;
+    }
+    .footer__title{
+        font-size: 14px;
+    }
 }
 
 @media screen and (max-width:1024px)  {
@@ -522,6 +529,10 @@ footer p{
         width:170px;
     }
 
+    .firstEvent__title{
+        padding-bottom: 7px;
+    }
+
 }
 
 @media screen and (max-height:414px){
@@ -561,15 +572,5 @@ footer p{
 
     .post-meta{
         margin:10px 10px;
-    }
-}
-
-@media screen and (max-width:370px){
-    .logo{
-        width:100px;
-        height:auto;
-    }
-    .footer__title{
-        font-size: 14px;
     }
 }
