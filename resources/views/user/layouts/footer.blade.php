@@ -7,7 +7,7 @@
             {{--<h1>BOXMMA</h1>--}}
             <div class="col-lg-8 col-md-10 mx-auto">
 
-                <h1 class="text-center coda">BOXMMA</h1>
+                <h1 class="text-center coda footer__title">BOXMMA</h1>
 
                 <div class="text-center">
                 <img class="logo" src="{{asset('user/img/logo.png')}}">

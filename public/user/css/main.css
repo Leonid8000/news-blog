@@ -562,4 +562,12 @@ footer p{
     .post-meta{
         margin:10px 10px;
     }
+
+    .logo{
+        width:100px;
+        height:auto;
+    }
+    .footer__title{
+        font-size: 14px;
+    }
 }
